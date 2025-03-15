@@ -1,0 +1,8 @@
+{"level":"info","message":"Server is running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"New + operation requested: 10 + 5 = 15","service":"calculator-microservice"}
+{"level":"info","message":"New - operation requested: 10 - 2 = 8","service":"calculator-microservice"}
+{"level":"info","message":"New * operation requested: 10 * 5 = 50","service":"calculator-microservice"}
+{"level":"info","message":"New / operation requested: 15 / 5 = 3","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num1=10, num2=undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: num1=abc, num2=5","service":"calculator-microservice"}
+{"level":"error","message":"Division by zero error: 10 / 0","service":"calculator-microservice"}
